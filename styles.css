@@ -1,4 +1,4 @@
- #container {
+ #container{
             margin: 20px ;
             position: relative; /* Change position to relative */
             display: flex;
@@ -11,7 +11,7 @@
             position: absolute;
             top: 0;
             left: 0px; /* Adjust the left position */
-            color: #f00;
+            color: rgb(255, 0, 0);
             font-size: 20px;
 			margin:0 70px
         }
