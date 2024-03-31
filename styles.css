@@ -1,5 +1,5 @@
  #container{
-	 content:"This is the Main Container element";
+	 content:"This is the main container element";
             margin: 20px ;
             position: relative; /* Change position to relative */
             display: flex;
@@ -8,7 +8,7 @@
         }
 
         #container::before {
-            content: "Before Element ";
+            content: "Before Element";
             position: absolute;
             top: 0;
             left: 0px; /* Adjust the left position */
